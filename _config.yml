@@ -1,0 +1,4 @@
+markdown: kramdown
+
+# Configure homepage
+page_titles_from_content: true
