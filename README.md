@@ -4,7 +4,7 @@ LuminaEye is an AI-powered smart glasses system for visually impaired navigation
 # Project Progress Evidence Chain
 This page serves as a chronological record of the development process for project verification and auditing purposes.
 
-# Hardware built up process
+## Hardware built up process
 
 <img width="100%" alt="hardware built up process 1" src="https://github.com/user-attachments/assets/1ca69157-0169-49b0-85b1-6ac96f811d0b" />
 
