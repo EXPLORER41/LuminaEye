@@ -17,7 +17,14 @@ This page serves as a chronological record of the development process for projec
 
 <img width="80%" alt="hardware built up process 6" src="https://github.com/user-attachments/assets/04dd38bb-43b7-4f4f-9c36-f8588b3aeefe" />
 
+## Management of the github repo process(the commits and all kinds of changes)
 
+<img width="1849" height="522" alt="Image" src="https://github.com/user-attachments/assets/a7cffef2-5897-435b-a6a6-df8bfd6ce59a" />
+<img width="708" height="197" alt="Image" src="https://github.com/user-attachments/assets/9f02feda-f8ae-420e-8cea-ef61b94d3623" />
+
+<img width="1943" height="816" alt="Image" src="https://github.com/user-attachments/assets/7d64a788-0d47-49ee-acb0-71211a7006d2" />
+
+<img width="404" height="69" alt="Image" src="https://github.com/user-attachments/assets/ff915c95-7af2-4ec2-a90b-bff5d169be58" />
 
 
 
