@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /evidence.md
 ---
 
 # Project Progress Evidence Chain
