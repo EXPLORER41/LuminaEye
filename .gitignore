@@ -17,3 +17,32 @@ landing/my-app/out/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Large model files
+*.pt
+*.pth
+*.onnx
+*.ts
+*.engine
+*.safetensors
+
+# OpenAIglasses model directory
+OpenAIglasses_for_Navigation/model/
+OpenAIglasses_for_Navigation/mobileclip_blt.ts
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node / frontend
+node_modules/
+.next/
+dist/
+build/
+out/
+
+# Environment
+.env
+.env.local
+.venv/
+venv/
