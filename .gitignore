@@ -1,0 +1,19 @@
+# Node / Next.js
+node_modules/
+.next/
+dist/
+out/
+
+# LuminaEye landing build outputs
+landing/my-app/node_modules/
+landing/my-app/.next/
+landing/my-app/dist/
+landing/my-app/out/
+
+# Environment files
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
